@@ -36,8 +36,7 @@ This project is a comprehensive interactive dashboard built using **Power BI** t
 - **Data Cleaning** (within Power BI)
 
 ---
-## screenshot
- link:- https://github.com/PUNISHER9354/Car-Sales-Analysis-/blob/main/Car%20sales%20analysis%20dashboard%20screenshot%20.png
+Analysis-/blob/main/Car%20sales%20analysis%20dashboard%20screenshot%20.png
 ## 📁 Dataset Details
 The dataset includes:
 - `Car_id`, `Date`, `Customer Name`, `Gender`, `Annual Income`
@@ -45,7 +44,8 @@ The dataset includes:
 - `Price ($)`, `Body Style`, `Dealer Region`, etc.
 
 ---
-
+## screenshot
+  ![Dashboard Preview](https://github.com/PUNISHER9354/Car-Sales-).
 ## 📌 Key DAX Measures
 ``` DAX
 Total Cars = COUNT('CarsData'[Car_id])
