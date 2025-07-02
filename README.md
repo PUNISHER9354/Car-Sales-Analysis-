@@ -36,7 +36,8 @@ This project is a comprehensive interactive dashboard built using **Power BI** t
 - **Data Cleaning** (within Power BI)
 
 ---
-
+## screenshot
+ link:- https://github.com/PUNISHER9354/Car-Sales-Analysis-/blob/main/Car%20sales%20analysis%20dashboard%20screenshot%20.png
 ## 📁 Dataset Details
 The dataset includes:
 - `Car_id`, `Date`, `Customer Name`, `Gender`, `Annual Income`
@@ -46,7 +47,7 @@ The dataset includes:
 ---
 
 ## 📌 Key DAX Measures
-```DAX
+``` DAX
 Total Cars = COUNT('CarsData'[Car_id])
 
 Top Selling Company = 
@@ -59,4 +60,7 @@ Top Selling Model =
 VAR ModelSummary =
     SUMMARIZE('CarsData', 'CarsData'[Model], "ModelCount", COUNTROWS('CarsData'))
 VAR TopModel = TOPN(1, ModelSummary, [ModelCount], DESC)
-RETURN MAXX(TopModel, 'CarsData'[Model])
+RETURN MAXX(TopModel, 'CarsData'[Model])```
+
+
+
