@@ -44,8 +44,6 @@ The dataset includes:
 - `Price ($)`, `Body Style`, `Dealer Region`, etc.
 
 ---
-## screenshot
-  ![Dashboard Preview](https://github.com/PUNISHER9354/Car-Sales-).
 ## 📌 Key DAX Measures
 ``` DAX
 Total Cars = COUNT('CarsData'[Car_id])
