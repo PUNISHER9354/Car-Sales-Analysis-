@@ -2,7 +2,7 @@
 
 This project is a comprehensive interactive dashboard built using **Power BI** to analyze and visualize car sales data. The dataset contains over 23,000 car listings with details like brand, model, price, buyer gender, body style, and dealer region.
 
-![Dashboard Screenshot]([Car sales analysis dashboard screenshot .png)
+![Dashboard Screenshot](https://github.com/PUNISHER9354/Car-Sales-Analysis-/blob/main/Car%20sales%20analysis%20dashboard%20screenshot%20.png)
 
 ---
 
